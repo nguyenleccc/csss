@@ -21,7 +21,7 @@ img {
 }
 @media screen and (min-width: 600px) {
   .gallery {
-    padding-top: 450px;
+    padding-top: 410px;
 	text-align: center;
   }
 }
